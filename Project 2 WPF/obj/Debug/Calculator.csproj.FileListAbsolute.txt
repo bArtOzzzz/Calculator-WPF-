@@ -1,7 +1,6 @@
 D:\Программирование\ASP.NET\Calculator (WPF)\Project 2 WPF\bin\Debug\Project 2 WPF.exe.config
 D:\Программирование\ASP.NET\Calculator (WPF)\Project 2 WPF\bin\Debug\Project 2 WPF.exe
 D:\Программирование\ASP.NET\Calculator (WPF)\Project 2 WPF\bin\Debug\Project 2 WPF.pdb
-D:\Программирование\ASP.NET\Calculator (WPF)\Project 2 WPF\obj\Debug\Calculator.csproj.AssemblyReference.cache
 D:\Программирование\ASP.NET\Calculator (WPF)\Project 2 WPF\obj\Debug\MainWindow.g.cs
 D:\Программирование\ASP.NET\Calculator (WPF)\Project 2 WPF\obj\Debug\App.g.cs
 D:\Программирование\ASP.NET\Calculator (WPF)\Project 2 WPF\obj\Debug\Project 2 WPF_MarkupCompile.cache
